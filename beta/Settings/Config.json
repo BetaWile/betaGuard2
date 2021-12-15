@@ -1,0 +1,18 @@
+{
+
+    "Bot": {
+        "token": "",
+        "owner": "",
+        "server": "",
+        "activity": ""
+    },
+
+    "Guard": {
+        "safezone": [""],
+        "safebots": [""],
+        "jail": "",
+        "booster": "",
+        "log": ""
+    }
+    
+}

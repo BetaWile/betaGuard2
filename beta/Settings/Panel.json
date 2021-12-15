@@ -1,0 +1,6 @@
+{
+    "RoleProtectiions": true,
+    "ChannelProtections": true,
+    "GuildProtections": true,
+    "EmoteProtections": true
+}
