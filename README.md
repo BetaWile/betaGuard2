@@ -57,10 +57,12 @@
 }
 ```
 ## Panel.json Bilgi
+* True = Açık
+* False = kapalı 
 ```json
 {
-    "RoleProtectiions": true,     // true = açık
-    "ChannelProtections": true,   // false = kapalı
+    "RoleProtectiions": true,
+    "ChannelProtections": true,
     "GuildProtections": true,
     "EmoteProtections": true
 }
