@@ -58,7 +58,7 @@
 ```
 ## Panel.json Bilgi
 * True = Açık
-* False = kapalı 
+* False = Kapalı 
 ```json
 {
     "RoleProtectiions": true,
